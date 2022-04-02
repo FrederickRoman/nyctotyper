@@ -2,7 +2,7 @@
   import NyctographyService from "../../../../services/NyctographyService";
   export let char = "";
   const size = 3;
-  const color = "white";
+  const color = "#bbb";
   $: glyph = NyctographyService.charToGlyph(char);
 </script>
 

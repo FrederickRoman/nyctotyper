@@ -33,6 +33,8 @@
   }
 
   #plain-input_text-area {
+    color: #111;
+    background: whitesmoke;
     width: 80%;
   }
 
@@ -41,7 +43,13 @@
   }
 
   button {
-    font-size: x-large;
+    color: whitesmoke;
+    background: #111;
+    font-size: large;
     font-family: inherit;
+    padding: 5px;
+    border: 2px solid whitesmoke;
+    border-radius: 10%;
+    margin: 5px;
   }
 </style>

@@ -8,8 +8,10 @@
 This small project shows a [Nyctographic cypher tool](https://en.wikipedia.org/wiki/Nyctography) written in [Svelte3](https://svelte.dev
 ).
 
-<img src="https://github.com/FrederickRoman/nyctotyper/blob/main/docs/mockups/hero_img_iPad.png" height="300" alt="Home mockup"/>
-<img src="https://github.com/FrederickRoman/nyctotyper/blob/main/docs/mockups/cypher_tool_iPad.png" height="300" alt="Cypher mockup"/>
+<div style="display:flex; justify-content:center; align-items:center;">
+  <img src="https://github.com/FrederickRoman/nyctotyper/blob/main/docs/mockups/hero_img_iPad.png" height="300" alt="Home mockup"/>
+  <img src="https://github.com/FrederickRoman/nyctotyper/blob/main/docs/mockups/cypher_tool_iPad.png" height="300" alt="Cypher mockup"/>
+</div>
 
 ## Project setup
 

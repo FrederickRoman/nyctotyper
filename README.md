@@ -1,6 +1,6 @@
 # Nyctographic cypher tool 
 
-<div style="display:flex; flex-direction:column;"><img src="https://github.com/FrederickRoman/nyctotyper/blob/main/public/favicon.png" alt="Nyctotyper logo" height="60"/>
+<div style="display:flex; flex-direction:column;"><img src="https://github.com/FrederickRoman/nyctotyper/blob/main/docs/logo/Nyctotyper-logo.svg" alt="Nyctotyper logo" height="60"/>
 </div>
 
 ## Description 

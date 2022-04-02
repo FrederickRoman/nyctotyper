@@ -1,4 +1,5 @@
-<svg viewBox="0 0 30 30" width="30" height="30" xmlns:svg="http://www.w3.org/2000/svg" style="background-color: #030712;
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 30 30" width="30" height="30" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" style="background-color: #030712;
     color: #bbb;">
     <line x1="3" y1="3" x2="27" y2="3" stroke-width="3" style="stroke: white;stroke-linecap: round;"></line>
     <line x1="27" y1="3" x2="27" y2="27" stroke-width="3" style="stroke: white;stroke-linecap: round;"></line>
@@ -13,4 +14,3 @@
     <circle cx="24" cy="24" r="1.5" stroke="#bbb" stroke-width="3" fill="#bbb" style="stroke: white;"></circle>
     <circle cx="6" cy="24" r="1.5" stroke="#bbb" stroke-width="3" fill="#bbb" style="stroke: white;"></circle>
 </svg>
- 

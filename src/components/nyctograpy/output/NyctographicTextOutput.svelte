@@ -31,7 +31,8 @@
 <style>
   #output-container {
     width: 100%;
-    padding: auto 10px;
+    padding-right: 10px;
+    padding-left: 10px;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;

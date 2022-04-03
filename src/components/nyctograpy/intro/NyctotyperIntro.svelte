@@ -49,15 +49,15 @@
   h3.paragraph {
     font-size: xx-large;
     text-align: center;
-    color: #c4b1b1; /* c46464ff*/
+    color: #c4b1b1; 
   }
 
   p.paragraph {
     font-size: x-large;
-    color: #c4b1b1; /* c46464ff*/
+    color: #c4b1b1; 
   }
 
   .link {
-    color: #c4b1b1; /* c46464ff*/
+    color: #c4b1b1; 
   }
 </style>
